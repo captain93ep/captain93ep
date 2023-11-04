@@ -1,4 +1,4 @@
-- 👋 Hi, I’m caüptain.
+- 👋 Hi, I’m captain.
 - 👀 I’m interested in being captain.
 
 <!---
